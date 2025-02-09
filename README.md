@@ -1,7 +1,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=ubuntu&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+👋;+I'm+Anjara+Ram!" />
 </h1>
-<h3 align="center">📌 Applied Mathematics student at Ankatso University 📐</h3>
+<h3 align="center">Applied Mathematics student at Ankatso University</h3>
 
 - 📫 How to reach me **anjaraven159@gmail.com**
 
@@ -53,3 +53,5 @@
 <br>
 <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anjara-Ram&show_icons=true&theme=algolia&border_radius=20" alt="most used languages"/>
 </div>
+
+
