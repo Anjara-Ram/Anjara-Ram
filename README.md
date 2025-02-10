@@ -5,11 +5,7 @@
 
 - 📫 How to reach me **anjaraven159@gmail.com**
 
-<h3 align="left">🌐 Connect with me:</h3>
-<p align="center">
-<a href="https://discord.gg/Anjara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Anjara Discord" height="30" width="40" /></a>
-<a href="mailto:anjaraven159@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/google.svg" alt="Email" height="30" width="40" /></a>
-</p>
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/anjaraven159) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anjaraven159@gmail.com)
 
 <h3 align="left">⚙️ Languages and Tools:</h3>
 <div align="center">
