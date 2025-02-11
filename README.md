@@ -45,9 +45,10 @@
 <h2 style="color: #44AEFB">📊 GitHub Stats</h2>
 <div align="center">
 
-<img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Anjara-Ram&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Anjara-Ram&theme=github_dark&show_icons=true" />
 <br>
-<img width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anjara-Ram&show_icons=true&theme=algolia&border_radius=20" alt="most used languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anjara-Ram&show_icons=true&theme=github_dark&border_radius=20&cache_seconds=1800" />
+
 </div>
 
 
