@@ -19,9 +19,23 @@
 <h2 style="color: #44AEFB">📊 GitHub Stats</h2>
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Anjara-Ram&theme=github_dark&show_icons=true" />
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anjara-Ram&show_icons=true&theme=github_dark&border_radius=20&cache_seconds=1800" />
+<h2 align="center">📊 GitHub Statistics</h2>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anjara-Ram&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Anjara-Ram&theme=github-dark" />
+</p>
+
+<h3 align="center">🧠 Languages Used</h3>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Anjara-Ram&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Anjara-Ram&theme=github_dark" />
+</p>
+
 
 </div>
 
