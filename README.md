@@ -7,14 +7,6 @@
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/anjaraven159) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anjaraven159@gmail.com)
 
-<h3 align="left">⚙️ Languages and Tools:</h3>
-<div align="center">
-  
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,python,scikitlearn,html,css,bootstrap,javascript,c,cpp,kotlin,figma,ai"/>
-</div>
-  
-</div>
 
 <h2 style="color: #44AEFB">📊 GitHub Stats</h2>
 <div align="center">
